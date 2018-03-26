@@ -76,3 +76,15 @@ exclude:
 - vendor/cache/
 - vendor/gems/
 - vendor/ruby/
+
+
+
+# Collections
+
+collections:
+  - _works
+  - _exhibitions
+
+collections:
+ exhibitions:
+   output: true
